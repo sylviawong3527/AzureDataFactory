@@ -1,0 +1,9 @@
+{
+	"name": "sylvia",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8ee4af00-7f4b-438a-9b05-14cbeb93c0a0",
+		"tenantId": "2ca68321-0eda-4908-88b2-424a8cb4b0f9"
+	}
+}

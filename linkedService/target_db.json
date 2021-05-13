@@ -1,0 +1,12 @@
+{
+	"name": "target_db",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=sylvia-server.database.windows.net;initial catalog=WideWorldImportersDW-Standard;user id=sylviawong3527",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTFZJQV84MTFjODgyOC05ZTU0LTQ0YjEtYWU2NS0wN2ViN2JhMDVkYjIiDQp9"
+		}
+	}
+}

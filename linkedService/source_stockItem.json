@@ -1,0 +1,12 @@
+{
+	"name": "source_stockItem",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"connectionString": "integrated security=False;encrypt=True;connection timeout=30;data source=ods-sylvia.database.windows.net;initial catalog=WideWorldImporters-Standard;user id=sylviawong3527",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIlNZTFZJQV82NDQyODYzMS0xZGEwLTQwOTQtYWY5Ni1kZGQ0NjQ1NDExYTgiDQp9"
+		}
+	}
+}
